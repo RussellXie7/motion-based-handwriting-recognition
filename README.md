@@ -1,5 +1,4 @@
-# Motion-Based Handwriting Recognition 
-# (CS 229 Archived Ver.)
+# Motion-Based Handwriting Recognition (CS 229 Archived)
 
 A novel real-time handwriting-to-text system for lower-case English alphabet based on motion sensing and deep learning.
 
